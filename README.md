@@ -3,7 +3,7 @@
   <a href="https://portfolio-react-navy-pi.vercel.app/" target="_blank"><M. Umer></a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img.png" />
+  <img alt="Demo" src="./Images/readme-img.PNG" />
 </div>
 
 <br/>
