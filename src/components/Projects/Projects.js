@@ -50,7 +50,7 @@ function Projects() {
               title="FitClub"
               description="A comprehensive Fitness App using the MERN stack (MongoDB, Express, React, Node.js) to help users achieve their fitness goals with ease. It features personalized workout plans, real-time progress tracking, and a supportive community for motivation."
               ghLink="https://github.com/umer2k200/FItFlex.git"
-              demoLink="https://chatify-49.web.app/"
+              demoLink="https://fit-club-react-alpha.vercel.app/"
             />
           </Col> 
 {/* 
