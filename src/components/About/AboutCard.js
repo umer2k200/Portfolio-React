@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Umer Zeeshan </span>
             from <span className="purple"> Rawalpindi, Pakistan.</span>
             <br />
-            I’m a final-year Computer Science student at FAST NUCES Islamabad with a passion for technology and innovation.
+            I’m a Computer Science graduate from FAST NUCES Islamabad with a passion for technology and innovation.
             <br />
             With experience in web development, software engineering, and mobile app development, I love building creative solutions and tackling new challenges.
             <br />
